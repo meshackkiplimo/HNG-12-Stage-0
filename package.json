@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --runInBand --verbose --coverage",
-  "dev": "npm run test && concurrently \"nodemon src/server.ts\" \"npm run test:watch\"",
+    "dev": "npm run test && concurrently \"nodemon src/server.ts\" \"npm run test:watch\"",
     "build": "tsc",
-    "start": "node dist/server.js",
+    "start": "node dist/server.js", 
     "test:watch": "jest --watch"
   },
   "keywords": [],
