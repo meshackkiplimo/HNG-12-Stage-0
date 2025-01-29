@@ -7,8 +7,7 @@ This is the backend project for **HNG-12 Stage 0**. The project implements an AP
 - [HNG-12-Stage-0](#hng-12-stage-0)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
-  - [run the development server](#run-the-development-server)
-  - [Run tests](#run-tests)
+    - [Key Updates:](#key-updates)
 
 ## Installation
 
@@ -21,8 +20,10 @@ To set up the project on your local machine, follow these steps:
    
    npm install
 
-## run the development server
-npm run dev
 
-## Run tests
-npm test
+
+### Key Updates:
+- Merged the `npm install` into the **Clone the Repository** section for better flow.
+- Added the commands `npm run dev` and `npm test` for running the server and tests.
+
+This version is more streamlined and focused. Let me know if you'd like further adjustments!
