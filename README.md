@@ -4,11 +4,11 @@ This is the backend project for **HNG-12 Stage 0**. The project implements an AP
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Running the Development Server](#running-the-development-server)
-- [Running Tests](#running-tests)
-- [Built With](#built-with)
-- [License](#license)
+- [HNG-12-Stage-0](#hng-12-stage-0)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [run the development server](#run-the-development-server)
+  - [Run tests](#run-tests)
 
 ## Installation
 
@@ -18,4 +18,11 @@ To set up the project on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/HNG-12-Stage-0.git
-   cd HNG-12-Stage-0
+   
+   npm install
+
+## run the development server
+npm run dev
+
+## Run tests
+npm test
